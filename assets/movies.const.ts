@@ -5,7 +5,7 @@ export const moviesData=[
         "totalMins":"2000",
         "revenue":"8999",
         "type":"Rent",
-        "status":"Active",
+        "status":"../assets/images/check2.svg",
         "views":"7",
         "image":"../assets/movie_images/baahubali-2-prabhas.jpg"
     },
@@ -15,7 +15,7 @@ export const moviesData=[
         "totalMins":"209",
         "revenue":"59",
         "type":"Rent",
-        "status":"InActive",
+        "status":"../assets/images/x.svg",
         "views":"50",
         "image":"../assets/movie_images/kgf2.jpg"
 
@@ -26,7 +26,7 @@ export const moviesData=[
         "totalMins":"220",
         "revenue":"5999",
         "type":"Rent",
-        "status":"Active",
+        "status":"../assets/images/check2.svg",
         "views":"1888",
         "image":"../assets/movie_images/download.jpeg"
     },
@@ -36,7 +36,7 @@ export const moviesData=[
         "totalMins":"3000",
         "revenue":"6899",
         "type":"Rent",
-        "status":"Active",
+        "status":"../assets/images/check2.svg",
         "views":"10000",
         "image":"../assets/movie_images/endgame.jpeg"
     }

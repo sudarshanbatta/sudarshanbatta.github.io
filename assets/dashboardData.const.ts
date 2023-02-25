@@ -2,21 +2,29 @@ export const dashBoardData=[
     {
         "title":"INR",
         "value":"239824",
-        "image":"../assets/currency-dollar.svg"
+        "image":"../assets/images/doller.png",
+        "height":"80px",
+        "width":"80px"
     },
     {
         "title":"MIN",
         "value":"87989898",
-        "image":"../assets/stopwatch.svg"
+        "image":"../assets/images/counticon.png",
+        "height":"80px",
+        "width":"70px"
     },
     {
         "title":"RENT",
         "value":"03",
-        "image":"../assets/ticket-perforated.svg"
+        "image":"../assets/images/ticketicon.png",
+        "height":"80px",
+        "width":"90px"
     },
     {
         "title":"VIEWS",
         "value":"20",
-        "image":"../assets/play-circle.svg"
+        "image":"../assets/images/views.png",
+        "height":"80px",
+        "width":"70px"
     }
 ]
